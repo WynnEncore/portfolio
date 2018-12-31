@@ -5,18 +5,18 @@ $(document).ready(function(){
   var modalText = {
     sjsr: {
       title: 'St-Jean-sur-Richelieu.net',
-      tag: 'Local Portal.',
+      tag: '2001 - 2008. Local Portal.',
       detail: 'My First PUBLIC dynamic web site. Business owners could advertise their own business in the directory. Small league register their game schedules, results and the stats would display automaticly in real time. More than 1 000 000 hits during the years, never failed',
     },
     mbt: {
       title: 'Mon Beau Tresor.com',
-      tag: 'WordPress Online Store using WooCommerce',
+      tag: '2014 - 2015. WordPress Online Store using WooCommerce',
       detail: 'Everything for new borns to toddler. SHop OnLine. (No more running business)',
     },
     picsou: {
       title: 'Picsou.ca',
-      tag: 'PENNY AUCTIONS.',
-      detail: 'This site ran in 2010-2011 using PHP and mainly Ajax. A lot of work to prevent DDO Attack since this application was time sensitive.',
+      tag: '2010 - 2011. Penny Auctions',
+      detail: 'This site ran in 2010-2011 using PHP and mainly Ajax. A lot of work to prevent DDO Attack since this application was time sensitive. This project was stopped after running for 6 months.',
     },
     mystand: {
       title: 'MyStand',

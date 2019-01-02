@@ -6,7 +6,7 @@ $(document).ready(function(){
     sjsr: {
       title: 'St-Jean-sur-Richelieu.net',
       tag: '2001 - 2008. Local Portal.',
-      detail: 'My First PUBLIC dynamic web site. Business owners could advertise their own business in the directory. Small league register their game schedules, results and the stats would display automaticly in real time. More than 1 000 000 hits during the years, never failed',
+      detail: 'My First PUBLIC dynamic web site. Business owners could advertise their own business in the directory. Small league register their game schedules, results and the stats would display automaticly in real time. More than 1 000 000 hits thru the years, never failed',
     },
     mbt: {
       title: 'Mon Beau Tresor.com',
@@ -18,15 +18,15 @@ $(document).ready(function(){
       tag: '2010 - 2011. Penny Auctions',
       detail: 'This site ran in 2010-2011 using PHP and mainly Ajax. A lot of work to prevent DDO Attack since this application was time sensitive. This project was stopped after running for 6 months.',
     },
-    mystand: {
-      title: 'MyStand',
-      tag: 'CROWD-FUNDED CHARITY.',
-      detail: 'MyStand is a crowd-funding, media sharing website, that has you donating actions instead of money out of your pocket. Single page App built with Node.js on Sails and Angular 2.0. Features social media sharing and large scale crowd-funding.',
+    aquaspa: {
+      title: 'Aqua Spa',
+      tag: '2006 - 2015. Services',
+      detail: 'Massage and esthetic cares center. Plain HTML, CSS and some transactional parts using PayPal to sell gift certificate. Convert into a WordPress site in 2015.',
     },
-    never: {
-      title: 'NeverSurrender',
-      tag: 'ALS AWARENESS.',
-      detail: 'NeverSurrender is a platform for the new ALS foundation mobile app in hopes to raise awareness and research funding to fight ALS. Pure JavaScript marketing site to promote the new ALS NeverSurrender app.',
+    oic: {
+      title: 'Online Incomes Club',
+      tag: '2014 - 2016. Ads and banner referencement.',
+      detail: 'Build under WordPress but using almost exclusively PHP and shorcodes to provide more control and flexibility. Extensive Back Office programming.',
     },
     themall: {
       title: 'The Mall',
